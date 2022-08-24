@@ -1,5 +1,5 @@
 # web
-##vue2+element-ui+fastmock
+vue2+element-ui+fastmock
 
 ## Project setup
 ```
